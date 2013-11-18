@@ -12,6 +12,6 @@ comments are welcome on the google drive doc source at http://tinyurl.com/scratc
 
 
 ###November 2013
-1st-Timers: 
-Beginners: http://scratch.mit.edu/projects/11445605/
-Intermediate: 
+  * 1st-Timers: 
+  * Beginners: http://scratch.mit.edu/projects/11445605/
+  * Intermediate: 
