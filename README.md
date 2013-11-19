@@ -10,6 +10,6 @@ Presentation via Google Slides: http://goo.gl/JyOZde
 
 
 ###November 2013
-* 1st-Timers: Presentation via Google Slides - http://goo.gl/fEu0jD
+* 1st-Timers: Presentation via Google Slides - http://goo.gl/fEu0jD  everything: http://goo.gl/tWb9oW
 * Beginners: Racing Game - http://scratch.mit.edu/projects/11445605/
 * Intermediate: Asteroids Cloning - http://scratch.mit.edu/projects/10351162/
