@@ -1,15 +1,17 @@
-coderdojo-scratch-beginner
-==========================
+CoderDojo SV monthly Scratch materials.
 
-Presentation for CoderDojo beginner class.
 
-###October 2013
-* Beginners: Implement a Halloween-themed game called Bat Away, a pong variant
-Agenda and mentor tips at  http://tinyurl.com/scratch-beginners-1016-doc
-Presentation via Google Slides: http://goo.gl/JyOZde
-
+###January 2013
+* 1st-Timers:
+* Beginners:
+* Intermediate: 
 
 ###November 2013
 * 1st-Timers: Presentation via Google Slides - http://goo.gl/fEu0jD  everything: http://goo.gl/tWb9oW
 * Beginners: Racing Game - http://scratch.mit.edu/projects/11445605/
 * Intermediate: Asteroids Cloning - http://scratch.mit.edu/projects/10351162/
+
+###October 2013
+* Beginners: Implement a Halloween-themed game called Bat Away, a pong variant
+Agenda and mentor tips at  http://tinyurl.com/scratch-beginners-1016-doc
+Presentation via Google Slides: http://goo.gl/JyOZde
