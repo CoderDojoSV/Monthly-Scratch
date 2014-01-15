@@ -1,8 +1,11 @@
 CoderDojo SV monthly Scratch materials.
 
 
-###January 2013
-* 1st-Timers: Hour of Code blocks (http://learn.code.org/hoc/1), followed by Scratch environment intro. Handout: https://github.com/CoderDojoSV/Monthly-Scratch/blob/master/CDIntro-Jan2014-handout.jpg. Powerpoint: https://github.com/CoderDojoSV/Monthly-Scratch/blob/master/CoderDojo%201st-timers%20Jan%202014.pptx
+###January 2014
+* Novice (aka 1st-Timers): 
+** Hour of Code blocks (http://hourofcode.com/co), followed by Scratch environment intro. 
+** Novice Handout: https://github.com/CoderDojoSV/Monthly-Scratch/blob/master/CoderDojoNovice-Jan2014-handout.jpg
+** Novice Presentation (Powerpoint): https://github.com/CoderDojoSV/Monthly-Scratch/blob/master/CoderDojo%20Novice%20Jan%202014.pptx
 * Beginners: Space Invaders - https://docs.google.com/document/d/1GirMhyP70aVn3r4WkD5H2G-Z3cniaGki4hbbVh9E88Q/edit?usp=sharing
 * Intermediate: Side Scrolling Helicopter Cave - https://github.com/CoderDojoSV/Monthly-Scratch/blob/master/20140115_Intermediate_CoderDojoSV.pdf
 
